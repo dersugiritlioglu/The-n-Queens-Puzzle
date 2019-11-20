@@ -2,7 +2,7 @@
 """
 Created on Wed Nov 20 14:08:28 2019
 
-@author: DERSU GIRITLIOGUL
+@author: DERSU GIRITLIOGLU
 """
 
 """
